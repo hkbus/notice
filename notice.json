@@ -1,18 +1,18 @@
 {
   "content": {
     "zh": [
-      "[節日] 按此查閱《運輸署公告 - 為配合 2026 年新春國際匯演之夜及農曆新年煙花匯演實施的特別交通及運輸安排》"
+      "[港鐵] 2026-03-08 屯馬綫特別車務安排：乘客途經紅磡站需下車到對面月台轉車以繼續行程。"
     ],
     "en": [
-      "[Festival] Click here to read \"Transport Department Notice - Special Traffic and Transport Arrangements for the International Chinese New Year Night Parade and Chinese New Year Fireworks Display in 2026\""
+      "[MTR] 2026-03-08 Tuen Ma Line special train service arrangements: To continue your journey through Hung Hom, please exit the train and board the train at the opposite platform."
     ]
   },
   "link": {
-    "zh": "https://www.td.gov.hk/filemanager/tc/content_13/TDN_LNY%20Night%20Parade_Fireworks%20Display_chi_clean_20260212.pdf",
-    "en": "https://www.td.gov.hk/filemanager/en/content_13/TDN_LNY%20Night%20Parade_Fireworks%20Display_eng_clean_20260212.pdf"
+    "zh": "https://www.mtr.com.hk/archive/corporate/ch/press_release/PR-25-088-C.pdf",
+    "en": "https://www.mtr.com.hk/archive/corporate/en/press_release/PR-25-088-E.pdf"
   },
-  "endDate": "2026-02-19T00:00:00.000Z",
-  "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_85311.html",
+  "endDate": "2026-03-08T19:00:00.000Z",
+  "url": "https://www.mtr.com.hk/archive/corporate/ch/press_release/PR-25-088-C.pdf",
   "enableLinkInIos": true,
   "isShown": true
 }
