@@ -1,18 +1,18 @@
 {
   "content": {
     "zh": [
-      "[港鐵] 2026-03-08 屯馬綫紅磡站特別車務安排，按此查看詳請。"
+      "將軍澳（坑口）臨時交通及運輸安排，按此查看詳請。"
     ],
     "en": [
-      "[MTR] 2026-03-08 Tuen Ma Line special train service arrangements in Hung Hom station. Click here for details."
+      "Temporary Traffic and Transport Arrangements in Tseung Kwan O (Hang hau). Click here for details."
     ]
   },
   "link": {
-    "zh": "https://tnews.mtr.com.hk/alert/tsi_simpletxt_title_tc.html?type=general",
-    "en": "https://tnews.mtr.com.hk/alert/tsi_simpletxt_title.html?type=general"
+    "zh": "https://www.td.gov.hk/filemanager/en/content_13/Temp%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_CHI.pdf",
+    "en": "https://www.td.gov.hk/filemanager/en/content_13/Temp%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_EN.pdf"
   },
-  "endDate": "2026-03-08T19:00:00.000Z",
-  "url": "https://www.mtr.com.hk/archive/corporate/ch/press_release/PR-26-017-C.pdf",
+  "endDate": "2026-03-11T00:00:00.000Z",
+  "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_85569.html",
   "enableLinkInIos": true,
   "isShown": true
 }
