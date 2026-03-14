@@ -1,18 +1,18 @@
 {
   "content": {
     "zh": [
-      "將軍澳（坑口）臨時交通及運輸安排，按此查看詳請。"
+      "單車百萬行 2026 的特別交通及運輸安排"
     ],
     "en": [
-      "Temporary Traffic and Transport Arrangements in Tseung Kwan O (Hang hau). Click here for details."
+      "Special Traffic and Transport Arrangements for Cycle for Millions 2026"
     ]
   },
   "link": {
-    "zh": "https://www.td.gov.hk/filemanager/en/content_13/Temp%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_CHI.pdf",
-    "en": "https://www.td.gov.hk/filemanager/en/content_13/Temp%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_EN.pdf"
+    "zh": "https://www.td.gov.hk/tc/traffic_notices/index_id_85619.html",
+    "en": "https://www.td.gov.hk/en/traffic_notices/index_id_85619.html"
   },
-  "endDate": "2026-03-11T00:00:00.000Z",
-  "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_85569.html",
+  "endDate": "2026-03-15T06:00:00.000Z",
+  "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_85619.html",
   "enableLinkInIos": true,
   "isShown": true
 }
