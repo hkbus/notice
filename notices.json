@@ -38,7 +38,7 @@
     "isShown": true
   },
   {
-    "id": "2026-04-03T16:00:001Z",
+    "id": "2026-04-03T16:00:000Z",
     "content": {
       "zh": [
         "復活節假期午夜 12 時至早上 5 時將軍澳（坑口）凌晨臨時交通及運輸安排。"
@@ -53,6 +53,25 @@
     },
     "endDate": "2026-04-08T00:00:00.000Z",
     "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_86011.html",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
+    "id": "2026-04-02T16:00:000Z",
+    "content": {
+      "zh": [
+        "1823：「兩蚊兩折」收費是如何計算？"
+      ],
+      "en": [
+        "1823: How is the \"$2 Flat Rate or 80 % Off\" fare calculated?"
+      ]
+    },
+    "link": {
+      "zh": "https://www.1823.gov.hk/tc/faq/how-to-calculate-the-fares-under-the-2-flat-rate-cum-80-per-cent-discount",
+      "en": "https://www.1823.gov.hk/en/faq/how-to-calculate-the-fares-under-the-2-flat-rate-cum-80-per-cent-discount"
+    },
+    "endDate": "2027-01-01T00:00:00.000Z",
+    "url": "https://www.1823.gov.hk/tc/faq/how-to-calculate-the-fares-under-the-2-flat-rate-cum-80-per-cent-discount",
     "enableLinkInIos": true,
     "isShown": true
   }
