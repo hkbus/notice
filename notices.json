@@ -127,10 +127,29 @@
       "zh": "https://www.citybus.com.hk/tc/uploadedPressRelease/22203_20260326_CHI.pdf",
       "en": "https://www.citybus.com.hk/en/uploadedPressRelease/22199_20260326_ENG.pdf"
     },
-    "endDate": "2026-04-13T00:00:00.000Z",
+    "endDate": "2026-04-08T00:00:00.000Z",
     "url": "https://www.citybus.com.hk/whatsNew/pressReleaseDetails.aspx?intPressReleaseID=2748&intLangID=2",
     "enableLinkInIos": true,
     "isShown": true
+  },
+  {
+    "id": "2026-04-05_ChingMing-CTB-33X",
+    "content": {
+      "zh": [
+        "城巴 33X 線 2026 年 4 月 11、12 日臨時加停薄扶林道墳場"
+      ],
+      "en": [
+        "Citybus Route 33X Temporary Bus Stop Addition at Pok Fu Lam Road Cemetery on 11, 12 April 2026"
+      ]
+    },
+    "link": {
+      "zh": "https://mobile.citybus.com.hk/pdf/E202600521a03.pdf",
+      "en": "https://mobile.citybus.com.hk/pdf/E202600521a03.pdf"
+    },
+    "endDate": "2026-04-13T00:00:00.000Z",
+    "url": "https://www.citybus.com.hk/whatsNew/pressReleaseDetails.aspx?intPressReleaseID=2748&intLangID=2",
+    "enableLinkInIos": true,
+    "isShown": false
   },
   {
     "id": "2026-04-05_ChingMing-KMB-All",
