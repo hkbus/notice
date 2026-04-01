@@ -74,5 +74,43 @@
     "url": "https://www.1823.gov.hk/tc/faq/how-to-calculate-the-fares-under-the-2-flat-rate-cum-80-per-cent-discount",
     "enableLinkInIos": true,
     "isShown": true
+  },
+  {
+    "id": "2026-03-15T00:00:000Z",
+    "content": {
+      "zh": [
+        "城巴清明節東區特別交通安排"
+      ],
+      "en": [
+        "Citybus Special Service Arrangements for Ching Ming Festival in Eastern District"
+      ]
+    },
+    "link": {
+      "zh": "https://www.citybus.com.hk/tc/uploadedPressRelease/22188_20260313_CHI_B.pdf",
+      "en": "https://www.citybus.com.hk/en/uploadedPressRelease/22186_20260313_ENG_B.pdf"
+    },
+    "endDate": "2026-04-20T00:00:00.000Z",
+    "url": "https://www.citybus.com.hk/whatsNew/pressReleaseDetails.aspx?intPressReleaseID=2746&intLangID=2",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
+    "id": "2026-03-28T00:00:000Z",
+    "content": {
+      "zh": [
+        "城巴清明節南區特別交通安排"
+      ],
+      "en": [
+        "Citybus Special Service Arrangements for Ching Ming Festival in Southern District"
+      ]
+    },
+    "link": {
+      "zh": "https://www.citybus.com.hk/tc/uploadedPressRelease/22203_20260326_CHI.pdf",
+      "en": "https://www.citybus.com.hk/en/uploadedPressRelease/22199_20260326_ENG.pdf"
+    },
+    "endDate": "2026-04-13T00:00:00.000Z",
+    "url": "https://www.citybus.com.hk/whatsNew/pressReleaseDetails.aspx?intPressReleaseID=2748&intLangID=2",
+    "enableLinkInIos": true,
+    "isShown": true
   }
 ]
