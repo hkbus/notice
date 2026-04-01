@@ -89,10 +89,29 @@
       "zh": "https://www.citybus.com.hk/tc/uploadedPressRelease/22188_20260313_CHI_B.pdf",
       "en": "https://www.citybus.com.hk/en/uploadedPressRelease/22186_20260313_ENG_B.pdf"
     },
-    "endDate": "2026-04-20T00:00:00.000Z",
+    "endDate": "2026-04-13T00:00:00.000Z",
     "url": "https://www.citybus.com.hk/whatsNew/pressReleaseDetails.aspx?intPressReleaseID=2746&intLangID=2",
     "enableLinkInIos": true,
     "isShown": true
+  },
+  {
+    "id": "2026-04-05_ChingMing-CTB-388",
+    "content": {
+      "zh": [
+        "城巴 388 線清明節特別巴士服務"
+      ],
+      "en": [
+        "Citybus Route 388 Ching Ming Festival Special Bus Service"
+      ]
+    },
+    "link": {
+      "zh": "https://mobile.citybus.com.hk/pdf/E202600444a03.pdf",
+      "en": "https://mobile.citybus.com.hk/pdf/E202600444a03.pdf"
+    },
+    "endDate": "2026-04-20T00:00:00.000Z",
+    "url": "https://www.citybus.com.hk/whatsNew/pressReleaseDetails.aspx?intPressReleaseID=2746&intLangID=2",
+    "enableLinkInIos": true,
+    "isShown": false
   },
   {
     "id": "2026-04-05_ChingMing-CTB-Southern",
@@ -136,10 +155,10 @@
     "id": "2026-04-05_ChingMing-KMB-14S",
     "content": {
       "zh": [
-        "九巴 14S 清明節特別巴士服務"
+        "九巴 14S 線清明節特別巴士服務"
       ],
       "en": [
-        "KMB 14S Ching Ming Festival Special Bus Service"
+        "KMB Route 14S Ching Ming Festival Special Bus Service"
       ]
     },
     "link": {
