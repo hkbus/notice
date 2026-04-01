@@ -19,7 +19,7 @@
     "isShown": true
   },
   {
-    "id": "2026-04-03_TKO",
+    "id": "2026-04-03_TKO-1",
     "content": {
       "zh": [
         "復活節假期早上 5 時至午夜 12 時將軍澳（坑口）臨時交通及運輸安排。"
@@ -38,7 +38,7 @@
     "isShown": true
   },
   {
-    "id": "2026-04-04_TKO",
+    "id": "2026-04-03_TKO-2",
     "content": {
       "zh": [
         "復活節假期午夜 12 時至早上 5 時將軍澳（坑口）凌晨臨時交通及運輸安排。"
@@ -188,5 +188,24 @@
     "url": "https://kmb.hk/news_detail.html?id=1389&year=2026",
     "enableLinkInIos": true,
     "isShown": false
+  },
+  {
+    "id": "2026-04-05_ChingMing-MTR-1",
+    "content": {
+      "zh": [
+        "港鐵復活節及清明節假期加強東鐵綫﹑機場快綫及巴士 K52A 綫服務"
+      ],
+      "en": [
+        "MTR Enhanced East Rail Line, Airport Express and Bus Route K52A service during the Easter and Ching Ming Holidays"
+      ]
+    },
+    "link": {
+      "zh": "https://www.mtr.com.hk/archive/ch/pdf/traffic-news/train-service-enhancement-easter-ching-ming-ch1.pdf",
+      "en": "https://www.mtr.com.hk/archive/ch/pdf/traffic-news/train-service-enhancement-easter-ching-ming-en1.pdf"
+    },
+    "endDate": "2026-04-20T00:00:00.000Z",
+    "url": "https://tnews.mtr.com.hk/alert/tsi_simpletxt_title_tc.html?type=general",
+    "enableLinkInIos": true,
+    "isShown": true
   }
 ]
