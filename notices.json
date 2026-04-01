@@ -3,10 +3,10 @@
     "id": "2026-03-17_TKO",
     "content": {
       "zh": [
-        "平日午夜 12 時至早上 5 時將軍澳（坑口）臨時交通及運輸安排。"
+        "平日午夜 12 時至早上 5 時將軍澳（坑口）臨時交通及運輸安排"
       ],
       "en": [
-        "Temporary Traffic and Transport Arrangements in Hang Hau, Tseung Kwan O from 12:00 midnight to 5:00 a.m. during weekdays."
+        "Temporary Traffic & Transport Arrangements in Hang Hau, Tseung Kwan O from 12:00 midnight To 5:00 a.m. during weekdays"
       ]
     },
     "link": {
@@ -22,10 +22,10 @@
     "id": "2026-04-03_TKO-1",
     "content": {
       "zh": [
-        "復活節假期早上 5 時至午夜 12 時將軍澳（坑口）臨時交通及運輸安排。"
+        "復活節假期早上 5 時至午夜 12 時將軍澳（坑口）臨時交通及運輸安排"
       ],
       "en": [
-        "Temporary Traffic and Transport Arrangements in Hang Hau, Tseung Kwan O from 5:00 a.m. to 12:00 midnight during the Easter holidays."
+        "Temporary Traffic & Transport Arrangements in Hang Hau, Tseung Kwan O from 5:00 a.m. to 12:00 midnight during the Easter holidays"
       ]
     },
     "link": {
@@ -41,10 +41,10 @@
     "id": "2026-04-03_TKO-2",
     "content": {
       "zh": [
-        "復活節假期午夜 12 時至早上 5 時將軍澳（坑口）凌晨臨時交通及運輸安排。"
+        "復活節假期午夜 12 時至早上 5 時將軍澳（坑口）凌晨臨時交通及運輸安排"
       ],
       "en": [
-        "Temporary Traffic and Transport Arrangements in Hang Hau, Tseung Kwan O from 12:00 midnight to 5:00 a.m. during the Easter holidays."
+        "Temporary Traffic & Transport Arrangements in Hang Hau, Tseung Kwan O from 12:00 midnight to 5:00 a.m. during the Easter holidays"
       ]
     },
     "link": {
@@ -196,16 +196,35 @@
         "港鐵復活節及清明節假期加強東鐵綫﹑機場快綫及巴士 K52A 綫服務"
       ],
       "en": [
-        "MTR Enhanced East Rail Line, Airport Express and Bus Route K52A service during the Easter and Ching Ming Holidays"
+        "MTR enhanced East Rail Line, Airport Express and Bus Route K52A service during the Easter and Ching Ming Holidays"
       ]
     },
     "link": {
       "zh": "https://www.mtr.com.hk/archive/ch/pdf/traffic-news/train-service-enhancement-easter-ching-ming-ch1.pdf",
       "en": "https://www.mtr.com.hk/archive/ch/pdf/traffic-news/train-service-enhancement-easter-ching-ming-en1.pdf"
     },
-    "endDate": "2026-04-20T00:00:00.000Z",
+    "endDate": "2026-04-08T00:00:00.000Z",
     "url": "https://tnews.mtr.com.hk/alert/tsi_simpletxt_title_tc.html?type=general",
     "enableLinkInIos": true,
     "isShown": true
+  },
+  {
+    "id": "2026-04-05_ChingMing-MTR-K52A",
+    "content": {
+      "zh": [
+        "2026 年 4 月 11﹑12﹑18﹑19 日港鐵巴士 K52A 綫加強服務"
+      ],
+      "en": [
+        "Service Enhancement for MTR Bus Route K52A on 11, 12, 18, 19 April 2026"
+      ]
+    },
+    "link": {
+      "zh": "https://www.mtr.com.hk/archive/ch/pdf/traffic-news/train-service-enhancement-easter-ching-ming-ch2.pdf",
+      "en": "https://www.mtr.com.hk/archive/ch/pdf/traffic-news/train-service-enhancement-easter-ching-ming-en2.pdf"
+    },
+    "endDate": "2026-04-20T00:00:00.000Z",
+    "url": "https://tnews.mtr.com.hk/alert/tsi_simpletxt_title_tc.html?type=general",
+    "enableLinkInIos": true,
+    "isShown": false
   }
 ]
