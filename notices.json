@@ -112,5 +112,24 @@
     "url": "https://www.citybus.com.hk/whatsNew/pressReleaseDetails.aspx?intPressReleaseID=2748&intLangID=2",
     "enableLinkInIos": true,
     "isShown": true
+  },
+  {
+    "id": "2026-03-28T00:00:001Z",
+    "content": {
+      "zh": [
+        "九巴清明節特別巴士服務"
+      ],
+      "en": [
+        "KMB Ching Ming Festival Special Bus Services"
+      ]
+    },
+    "link": {
+      "zh": "https://kmb.hk/storage/files/Ching%20Ming%20Festival%202026_compressed.pdf",
+      "en": "https://kmb.hk/storage/files/Ching%20Ming%20Festival%202026_compressed.pdf"
+    },
+    "endDate": "2026-04-13T00:00:00.000Z",
+    "url": "https://kmb.hk/news_detail.html?id=1389&year=2026",
+    "enableLinkInIos": true,
+    "isShown": true
   }
 ]
