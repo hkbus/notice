@@ -226,5 +226,24 @@
     "url": "https://tnews.mtr.com.hk/alert/tsi_simpletxt_title_tc.html?type=general",
     "enableLinkInIos": true,
     "isShown": false
+  },
+  {
+    "id": "2026-04-05_ChingMing-NLB-7S34S",
+    "content": {
+      "zh": [
+        "嶼巴 7S 線﹑34S 線清明節特別巴士服務"
+      ],
+      "en": [
+        "NLB Route 7S, 34S Ching Ming Festival Special Bus Service"
+      ]
+    },
+    "link": {
+      "zh": "https://nlb.com.hk/news/tc/623",
+      "en": "https://nlb.com.hk/news/en/623"
+    },
+    "endDate": "2026-04-06T00:00:00.000Z",
+    "url": "https://nlb.com.hk/news/detail/623",
+    "enableLinkInIos": true,
+    "isShown": true
   }
 ]
