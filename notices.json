@@ -273,8 +273,8 @@
       "zh": "https://example.com/中文通告連結",
       "en": "https://example.com/English-Notice-Link"
     },
-    "startDate": "2026-04-01T00:00:00.000Z",
-    "endDate": "2099-12-31T23:59:59.999Z",
+    "startDate": "2999-01-01T00:00:00.000Z",
+    "endDate": "2999-12-31T23:59:59.999Z",
     "url": "https://example.com/來源-source",
     "enableLinkInIos": true,
     "isShown": false
