@@ -13,6 +13,7 @@
       "zh": "https://www.td.gov.hk/filemanager/en/content_13/Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_17%20Mar%20to%2030%20Apr%202026_CHI.pdf",
       "en": "https://www.td.gov.hk/filemanager/en/content_13/Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_17%20Mar%20to%2030%20Apr%202026_EN.pdf"
     },
+    "startDate": "2026-03-12T00:00:00.000Z",
     "endDate": "2026-04-30T00:00:00.000Z",
     "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_85684.html",
     "enableLinkInIos": true,
@@ -32,6 +33,7 @@
       "zh": "https://www.td.gov.hk/filemanager/en/content_13/Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_3-7%20Apr%202026_CHI.pdf",
       "en": "https://www.td.gov.hk/filemanager/en/content_13/Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_3-7%20Apr%202026_EN.pdf"
     },
+    "startDate": "2026-03-30T00:00:00.000Z",
     "endDate": "2026-04-08T00:00:00.000Z",
     "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_86009.html",
     "enableLinkInIos": true,
@@ -51,6 +53,7 @@
       "zh": "https://www.td.gov.hk/filemanager/en/content_13/Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_4-6%20Apr%202026_CHI%20.pdf",
       "en": "https://www.td.gov.hk/filemanager/en/content_13/Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_4-6%20Apr%202026_EN%20.pdf"
     },
+    "startDate": "2026-03-30T00:00:00.000Z",
     "endDate": "2026-04-08T00:00:00.000Z",
     "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_86011.html",
     "enableLinkInIos": true,
@@ -70,6 +73,7 @@
       "zh": "https://www.1823.gov.hk/tc/faq/how-to-calculate-the-fares-under-the-2-flat-rate-cum-80-per-cent-discount",
       "en": "https://www.1823.gov.hk/en/faq/how-to-calculate-the-fares-under-the-2-flat-rate-cum-80-per-cent-discount"
     },
+    "startDate": "2026-03-30T00:00:00.000Z",
     "endDate": "2027-01-01T00:00:00.000Z",
     "url": "https://www.1823.gov.hk/tc/faq/how-to-calculate-the-fares-under-the-2-flat-rate-cum-80-per-cent-discount",
     "enableLinkInIos": true,
@@ -89,6 +93,7 @@
       "zh": "https://www.citybus.com.hk/tc/uploadedPressRelease/22188_20260313_CHI_B.pdf",
       "en": "https://www.citybus.com.hk/en/uploadedPressRelease/22186_20260313_ENG_B.pdf"
     },
+    "startDate": "2026-03-12T00:00:00.000Z",
     "endDate": "2026-04-13T00:00:00.000Z",
     "url": "https://www.citybus.com.hk/whatsNew/pressReleaseDetails.aspx?intPressReleaseID=2746&intLangID=2",
     "enableLinkInIos": true,
@@ -108,10 +113,11 @@
       "zh": "https://mobile.citybus.com.hk/pdf/E202600444a03.pdf",
       "en": "https://mobile.citybus.com.hk/pdf/E202600444a03.pdf"
     },
+    "startDate": "2026-04-13T00:00:00.000Z",
     "endDate": "2026-04-20T00:00:00.000Z",
     "url": "https://www.citybus.com.hk/whatsNew/pressReleaseDetails.aspx?intPressReleaseID=2746&intLangID=2",
     "enableLinkInIos": true,
-    "isShown": false
+    "isShown": true
   },
   {
     "id": "2026-04-05_ChingMing-CTB-Southern",
@@ -127,6 +133,7 @@
       "zh": "https://www.citybus.com.hk/tc/uploadedPressRelease/22203_20260326_CHI.pdf",
       "en": "https://www.citybus.com.hk/en/uploadedPressRelease/22199_20260326_ENG.pdf"
     },
+    "startDate": "2026-03-12T00:00:00.000Z",
     "endDate": "2026-04-08T00:00:00.000Z",
     "url": "https://www.citybus.com.hk/whatsNew/pressReleaseDetails.aspx?intPressReleaseID=2748&intLangID=2",
     "enableLinkInIos": true,
@@ -146,10 +153,11 @@
       "zh": "https://mobile.citybus.com.hk/pdf/E202600521a03.pdf",
       "en": "https://mobile.citybus.com.hk/pdf/E202600521a03.pdf"
     },
+    "startDate": "2026-04-08T00:00:00.000Z",
     "endDate": "2026-04-13T00:00:00.000Z",
     "url": "https://www.citybus.com.hk/whatsNew/pressReleaseDetails.aspx?intPressReleaseID=2748&intLangID=2",
     "enableLinkInIos": true,
-    "isShown": false
+    "isShown": true
   },
   {
     "id": "2026-04-05_ChingMing-KMB-All",
@@ -165,6 +173,7 @@
       "zh": "https://kmb.hk/storage/files/Ching%20Ming%20Festival%202026_compressed.pdf",
       "en": "https://kmb.hk/storage/files/Ching%20Ming%20Festival%202026_compressed.pdf"
     },
+    "startDate": "2026-03-12T00:00:00.000Z",
     "endDate": "2026-04-13T00:00:00.000Z",
     "url": "https://kmb.hk/news_detail.html?id=1389&year=2026",
     "enableLinkInIos": true,
@@ -184,10 +193,11 @@
       "zh": "https://search.kmb.hk/kmbwebsite/AnnouncementPicture.ashx?url=1774323279_4539_0.pdf",
       "en": "https://search.kmb.hk/kmbwebsite/AnnouncementPicture.ashx?url=1774323279_4539_0.pdf"
     },
+    "startDate": "2026-04-13T00:00:00.000Z",
     "endDate": "2026-05-02T00:00:00.000Z",
     "url": "https://kmb.hk/news_detail.html?id=1389&year=2026",
     "enableLinkInIos": true,
-    "isShown": false
+    "isShown": true
   },
   {
     "id": "2026-04-05_ChingMing-MTR-1",
@@ -203,6 +213,7 @@
       "zh": "https://www.mtr.com.hk/archive/ch/pdf/traffic-news/train-service-enhancement-easter-ching-ming-ch1.pdf",
       "en": "https://www.mtr.com.hk/archive/ch/pdf/traffic-news/train-service-enhancement-easter-ching-ming-en1.pdf"
     },
+    "startDate": "2026-03-12T00:00:00.000Z",
     "endDate": "2026-04-08T00:00:00.000Z",
     "url": "https://tnews.mtr.com.hk/alert/tsi_simpletxt_title_tc.html?type=general",
     "enableLinkInIos": true,
@@ -222,10 +233,11 @@
       "zh": "https://www.mtr.com.hk/archive/ch/pdf/traffic-news/train-service-enhancement-easter-ching-ming-ch2.pdf",
       "en": "https://www.mtr.com.hk/archive/ch/pdf/traffic-news/train-service-enhancement-easter-ching-ming-en2.pdf"
     },
+    "startDate": "2026-04-08T00:00:00.000Z",
     "endDate": "2026-04-20T00:00:00.000Z",
     "url": "https://tnews.mtr.com.hk/alert/tsi_simpletxt_title_tc.html?type=general",
     "enableLinkInIos": true,
-    "isShown": false
+    "isShown": true
   },
   {
     "id": "2026-04-05_ChingMing-NLB-7S34S",
@@ -241,9 +253,30 @@
       "zh": "https://nlb.com.hk/news/tc/623",
       "en": "https://nlb.com.hk/news/en/623"
     },
+    "startDate": "2026-03-12T00:00:00.000Z",
     "endDate": "2026-04-06T00:00:00.000Z",
     "url": "https://nlb.com.hk/news/detail/623",
     "enableLinkInIos": true,
     "isShown": true
+  },
+  {
+    "id": "Example",
+    "content": {
+      "zh": [
+        "中文通告"
+      ],
+      "en": [
+        "English Notice"
+      ]
+    },
+    "link": {
+      "zh": "https://example.com/中文通告連結",
+      "en": "https://example.com/English-Notice-Link"
+    },
+    "startDate": "2026-04-01T00:00:00.000Z",
+    "endDate": "2099-12-31T23:59:59.999Z",
+    "url": "https://example.com/來源-source",
+    "enableLinkInIos": true,
+    "isShown": false
   }
 ]
