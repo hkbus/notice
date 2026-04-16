@@ -1,5 +1,45 @@
 [
   {
+    "id": "2026-04-17_HongKongSevens",
+    "content": {
+      "zh": [
+        "2026 香港國際七人欖球賽特別交通及運輸安排"
+      ],
+      "en": [
+        "Special Traffic and Transport Arrangements for the Hong Kong Sevens 2026"
+      ]
+    },
+    "link": {
+      "zh": "https://www.td.gov.hk/filemanager/en/content_13/WCO/hong%20kong%207_2026%20_tc.pdf",
+      "en": "https://www.td.gov.hk/filemanager/en/content_13/WCO/hong%20kong%207_2026%20_eng.pdf"
+    },
+    "startDate": "2026-04-17T00:00:00.000Z",
+    "endDate": "2026-04-19T19:00:00.000Z",
+    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_86179.html",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
+    "id": "2026-01-01_BusRouteChanges",
+    "content": {
+      "zh": [
+        "香港巴士大典: 2026 年巴士路線改動列表"
+      ],
+      "en": [
+        "Hong Kong Buses Wiki: List of bus route changes in 2026"
+      ]
+    },
+    "link": {
+      "zh": "https://antifandom.com/hkbus/wiki/2026%E5%B9%B4%E5%B7%B4%E5%A3%AB%E8%B7%AF%E7%B7%9A%E6%94%B9%E5%8B%95%E5%88%97%E8%A1%A8",
+      "en": "https://antifandom.com/hongkongbuses/wiki/List_of_bus_route_changes_in_2026"
+    },
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "endDate": "2027-02-01T00:00:00.000Z",
+    "url": "https://hkbus.fandom.com/wiki/2026%E5%B9%B4%E5%B7%B4%E5%A3%AB%E8%B7%AF%E7%B7%9A%E6%94%B9%E5%8B%95%E5%88%97%E8%A1%A8",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
     "id": "2026-04-03_2-Scheme",
     "content": {
       "zh": [
