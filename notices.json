@@ -40,6 +40,26 @@
     "isShown": true
   },
   {
+    "id": "2026-06-20_BarracksOpenDay",
+    "content": {
+      "zh": [
+        "昂船洲、石崗及新圍軍營開放日的特別公共運輸安排"
+      ],
+      "en": [
+        "Special Public Transport Arrangements For The Barracks Open Day In Ngong Shuen Chau, Shek Kong And San Wai"
+      ]
+    },
+    "link": {
+      "zh": "https://www.td.gov.hk/filemanager/en/content_13/WCO/openday2026_tc.pdf",
+      "en": "https://www.td.gov.hk/filemanager/en/content_13/WCO/openday2026_eng.pdf"
+    },
+    "startDate": "2026-06-18T00:00:00.000Z",
+    "endDate": "2026-06-29T00:00:00.000Z",
+    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87195.html",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
     "id": "2026-01-01_BusRouteChanges",
     "content": {
       "zh": [
