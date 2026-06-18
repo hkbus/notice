@@ -1,5 +1,25 @@
 [
   {
+    "id": "2026-06-19_TuenNgFestival",
+    "content": {
+      "zh": [
+        "2026 年端午節特別交通及運輸安排"
+      ],
+      "en": [
+        "Special Traffic and Transport Arrangements for Tuen Ng Festival 2026"
+      ]
+    },
+    "link": {
+      "zh": "https://www.td.gov.hk/filemanager/en/content_13/Chinese_2026.06.11%201831_Website%20version_v2_2026.06.12%201600.pdf",
+      "en": "https://www.td.gov.hk/filemanager/en/content_13/English_2026_06.11%201831_Website%20version_v2_2026.06.12%201600.pdf"
+    },
+    "startDate": "2026-06-18T00:00:00.000Z",
+    "endDate": "2026-06-20T00:00:00.000Z",
+    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87178.html",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
     "id": "2026-01-01_BusRouteChanges",
     "content": {
       "zh": [
