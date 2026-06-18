@@ -20,6 +20,26 @@
     "isShown": true
   },
   {
+    "id": "2026-06-19_TKO",
+    "content": {
+      "zh": [
+        "2026-06-19 將軍澳臨時交通及運輸安排"
+      ],
+      "en": [
+        "2026-06-19 Temporary Traffic and Transport Arrangements in Tseung Kwan O"
+      ]
+    },
+    "link": {
+      "zh": "https://www.td.gov.hk/filemanager/en/content_13/TDN_Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_19%20Jun%202026%20_CHI%20.pdf",
+      "en": "https://www.td.gov.hk/filemanager/en/content_13/TDN_Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_19%20Jun%202026%20_EN%20.pdf"
+    },
+    "startDate": "2026-06-18T00:00:00.000Z",
+    "endDate": "2026-06-20T00:00:00.000Z",
+    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87185.html",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
     "id": "2026-01-01_BusRouteChanges",
     "content": {
       "zh": [
