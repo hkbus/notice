@@ -1,5 +1,25 @@
 [
   {
+    "id": "2026-06-28_YMS",
+    "content": {
+      "zh": [
+        "2026-06-28 觀塘裕民坊巴士站遷移"
+      ],
+      "en": [
+        "2026-06-28 Relocation of Yue Man Square, Kwun Tong Bus Stops"
+      ]
+    },
+    "link": {
+      "zh": "https://search.kmb.hk/kmbwebsite/AnnouncementPicture.ashx?url=1780630286_3776_0.pdf",
+      "en": "https://search.kmb.hk/kmbwebsite/AnnouncementPicture.ashx?url=1780630286_3776_0.pdf"
+    },
+    "startDate": "2026-06-23T00:00:00.000Z",
+    "endDate": "2026-07-13T00:00:00.000Z",
+    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87256.html",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
     "id": "2026-06-21_KSR",
     "content": {
       "zh": [
