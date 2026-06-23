@@ -1,21 +1,21 @@
 [
   {
-    "id": "2026-06-19_TuenNgFestival",
+    "id": "2026-06-21_KSR",
     "content": {
       "zh": [
-        "2026 年端午節特別交通及運輸安排"
+        "2026-06-21 錦上路站巴士/小巴總站永久遷移至 D 出口外"
       ],
       "en": [
-        "Special Traffic and Transport Arrangements for Tuen Ng Festival 2026"
+        "2026-06-21 Kam Sheung Road Station Bus/Minibus Terminus Permanent Relocated to Outside Exit D"
       ]
     },
     "link": {
-      "zh": "https://www.td.gov.hk/filemanager/en/content_13/Chinese_2026.06.11%201831_Website%20version_v2_2026.06.12%201600.pdf",
-      "en": "https://www.td.gov.hk/filemanager/en/content_13/English_2026_06.11%201831_Website%20version_v2_2026.06.12%201600.pdf"
+      "zh": "https://search.kmb.hk/kmbwebsite/AnnouncementPicture.ashx?url=1781235139_4143_0.pdf",
+      "en": "https://search.kmb.hk/kmbwebsite/AnnouncementPicture.ashx?url=1781235139_4143_0.pdf"
     },
-    "startDate": "2026-06-18T00:00:00.000Z",
-    "endDate": "2026-06-20T00:00:00.000Z",
-    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87178.html",
+    "startDate": "2026-06-21T00:00:00.000Z",
+    "endDate": "2026-07-06T00:00:00.000Z",
+    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87165.html",
     "enableLinkInIos": true,
     "isShown": true
   },
@@ -119,7 +119,27 @@
     "enableLinkInIos": true,
     "isShown": false
   },
-  {
+    {
+    "id": "2027-06-09_TuenNgFestival",
+    "content": {
+      "zh": [
+        "2027 年端午節"
+      ],
+      "en": [
+        "Tuen Ng Festival 2027"
+      ]
+    },
+    "link": {
+      "zh": "",
+      "en": ""
+    },
+    "startDate": "2027-06-09T00:00:00.000Z",
+    "endDate": "2027-06-09T00:00:00.001Z",
+    "url": "",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+{
     "id": "9999-01-01_Example",
     "content": {
       "zh": [
