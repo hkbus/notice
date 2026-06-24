@@ -1,5 +1,25 @@
 [
   {
+    "id": "2026-07-05_TSP",
+    "content": {
+      "zh": [
+        "2026-07-05 輕鐵「屯門泳池站」改名為「海皇路站」"
+      ],
+      "en": [
+        "2026-07-05 Light Rail “Tuen Mun Swimming Pool Stop” renamed to “Hoi Wong Road Stop”"
+      ]
+    },
+    "link": {
+      "zh": "https://mtrtuenmunsouth.hk/?p=4828",
+      "en": "https://mtrtuenmunsouth.hk/?p=4829"
+    },
+    "startDate": "2026-06-24T00:00:00.000Z",
+    "endDate": "2026-07-20T00:00:00.000Z",
+    "url": "https://mtrtuenmunsouth.hk/?p=4828",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
     "id": "2026-06-28_YMS",
     "content": {
       "zh": [
