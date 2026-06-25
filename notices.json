@@ -1,12 +1,32 @@
 [
   {
+    "id": "2026-06-28_DATA.GOV.HK",
+    "content": {
+      "zh": [
+        "2026-06-28 03:00~07:00 「資料一線通」暫停提供城巴的實時抵站時間及相關資料。"
+      ],
+      "en": [
+        "2026-06-28 03:00~07:00 DATA.GOV.HK suspends provision of Citybus real-time \"Next bus\" arrival time and related data."
+      ]
+    },
+    "link": {
+      "zh": "https://gyo.tc/ci/47/214/1189/472/1wnVI",
+      "en": "https://gyo.tc/ci/45/215/1192/616/1wnVL"
+    },
+    "startDate": "2026-06-27T02:00:00.000Z",
+    "endDate": "2026-06-28T00:00:00.000Z",
+    "url": "https://data.gov.hk/tc-data/dataset/ctb-eta-transport-realtime-eta",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
     "id": "2026-07-05_TSP",
     "content": {
       "zh": [
-        "2026-07-05 輕鐵車站「屯門泳池」改名為「海皇路」"
+        "2026-07-05 輕鐵車站「屯門泳池」將改名為「海皇路」"
       ],
       "en": [
-        "2026-07-05 LRT stop \"Tuen Mun Swimming Pool\" renamed \"Hoi Wong Road\""
+        "2026-07-05 LRT stop \"Tuen Mun Swimming Pool\" will be renamed \"Hoi Wong Road\""
       ]
     },
     "link": {
