@@ -1,5 +1,25 @@
 [
   {
+    "id": "2026-06-28_DATA.GOV.HK",
+    "content": {
+      "zh": [
+        "2026-06-28 03:00~07:00 「資料一線通」暫停提供城巴的實時抵站時間及相關資料。"
+      ],
+      "en": [
+        "2026-06-28 03:00~07:00 DATA.GOV.HK suspends provision of Citybus real-time \"Next bus\" arrival time and related data."
+      ]
+    },
+    "link": {
+      "zh": "https://data.gov.hk/tc-data/dataset/ctb-eta-transport-realtime-eta",
+      "en": "https://data.gov.hk/en-data/dataset/ctb-eta-transport-realtime-eta"
+    },
+    "startDate": "2026-06-27T02:00:00.000Z",
+    "endDate": "2026-06-28T00:00:00.000Z",
+    "url": "https://data.gov.hk/tc-data/dataset/ctb-eta-transport-realtime-eta",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
     "id": "2026-07-01_HKSAR",
     "content": {
       "zh": [
@@ -16,26 +36,6 @@
     "startDate": "2026-06-27T03:00:00.000Z",
     "endDate": "2026-07-01T06:00:00.000Z",
     "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87363.html",
-    "enableLinkInIos": true,
-    "isShown": true
-  },
-  {
-    "id": "2026-06-28_DATA.GOV.HK",
-    "content": {
-      "zh": [
-        "2026-06-28 03:00~07:00 「資料一線通」暫停提供城巴的實時抵站時間及相關資料。"
-      ],
-      "en": [
-        "2026-06-28 03:00~07:00 DATA.GOV.HK suspends provision of Citybus real-time \"Next bus\" arrival time and related data."
-      ]
-    },
-    "link": {
-      "zh": "https://gyo.tc/ci/50/541/1185/200/1wnVI",
-      "en": "https://gyo.tc/ci/50/681/1185/200/1wnVL"
-    },
-    "startDate": "2026-06-27T02:00:00.000Z",
-    "endDate": "2026-06-28T00:00:00.000Z",
-    "url": "https://data.gov.hk/tc-data/dataset/ctb-eta-transport-realtime-eta",
     "enableLinkInIos": true,
     "isShown": true
   },
