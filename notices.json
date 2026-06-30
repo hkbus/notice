@@ -1,21 +1,21 @@
 [
   {
-    "id": "2026-06-28_DATA.GOV.HK",
+    "id": "2026-07-02_StonecuttersIsland",
     "content": {
       "zh": [
-        "2026-06-28 03:00~07:00 「資料一線通」暫停提供城巴的實時抵站時間及相關資料。"
+        "為配合昂船洲活動的特別公共運輸安排"
       ],
       "en": [
-        "2026-06-28 03:00~07:00 DATA.GOV.HK suspends provision of Citybus real-time \"Next bus\" arrival time and related data."
+        "Special Public Transport Arrangements for The Activity on Stonecutters Island"
       ]
     },
     "link": {
-      "zh": "https://data.gov.hk/tc-data/dataset/ctb-eta-transport-realtime-eta",
-      "en": "https://data.gov.hk/en-data/dataset/ctb-eta-transport-realtime-eta"
+      "zh": "https://www.td.gov.hk/filemanager/tc/content_13/TPF2/TDN%20Special%20Event%202026%20TDN%20c.pdf",
+      "en": "https://www.td.gov.hk/filemanager/en/content_13/TPF2/TDN%20Special%20Event%202026%20TDN%20e.pdf"
     },
-    "startDate": "2026-06-27T02:00:00.000Z",
-    "endDate": "2026-06-28T00:00:00.000Z",
-    "url": "https://data.gov.hk/tc-data/dataset/ctb-eta-transport-realtime-eta",
+    "startDate": "2026-06-29T10:00:00.000Z",
+    "endDate": "2026-07-06T04:00:00.000Z",
+    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87440.html",
     "enableLinkInIos": true,
     "isShown": true
   },
@@ -120,26 +120,6 @@
     "isShown": true
   },
   {
-    "id": "2026-06-20_BarracksOpenDay",
-    "content": {
-      "zh": [
-        "軍營開放日的特別公共運輸安排"
-      ],
-      "en": [
-        "Special Public Transport Arrangements For The Barracks Open Day"
-      ]
-    },
-    "link": {
-      "zh": "https://www.td.gov.hk/filemanager/en/content_13/WCO/openday2026_tc.pdf",
-      "en": "https://www.td.gov.hk/filemanager/en/content_13/WCO/openday2026_eng.pdf"
-    },
-    "startDate": "2026-06-18T00:00:00.000Z",
-    "endDate": "2026-06-29T00:00:00.000Z",
-    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87195.html",
-    "enableLinkInIos": true,
-    "isShown": true
-  },
-  {
     "id": "2026-01-01_BusRouteChanges",
     "content": {
       "zh": [
@@ -219,7 +199,27 @@
     "enableLinkInIos": true,
     "isShown": true
   },
-{
+  {
+    "id": "2027-06-19_BarracksOpenDay",
+    "content": {
+      "zh": [
+        ""
+      ],
+      "en": [
+        ""
+      ]
+    },
+    "link": {
+      "zh": "",
+      "en": ""
+    },
+    "startDate": "2026-06-19T00:00:00.000Z",
+    "endDate": "2026-06-19T00:00:00.001Z",
+    "url": "",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
     "id": "9999-01-01_Example",
     "content": {
       "zh": [
