@@ -20,53 +20,13 @@
     "isShown": true
   },
   {
-    "id": "2026-07-02_StonecuttersIsland",
-    "content": {
-      "zh": [
-        "為配合昂船洲活動的特別公共運輸安排"
-      ],
-      "en": [
-        "Special Public Transport Arrangements for The Activity on Stonecutters Island"
-      ]
-    },
-    "link": {
-      "zh": "https://www.td.gov.hk/filemanager/tc/content_13/TPF2/TDN%20Special%20Event%202026%20TDN%20c.pdf",
-      "en": "https://www.td.gov.hk/filemanager/en/content_13/TPF2/TDN%20Special%20Event%202026%20TDN%20e.pdf"
-    },
-    "startDate": "2026-06-29T10:00:00.000Z",
-    "endDate": "2026-07-06T04:00:00.000Z",
-    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87440.html",
-    "enableLinkInIos": true,
-    "isShown": true
-  },
-  {
-    "id": "2026-07-01_HKSAR",
-    "content": {
-      "zh": [
-        "2026-06-29~2026-07-01 升旗儀式的特別交通及運輸安排"
-      ],
-      "en": [
-        "2026-06-29~2026-07-01 Special Traffic and Transport Arrangements for Flag Raising Ceremonies"
-      ]
-    },
-    "link": {
-      "zh": "https://www.td.gov.hk/filemanager/en/content_13/260701_%20July%201%20Flag%20Ceremony_Chi.pdf",
-      "en": "https://www.td.gov.hk/filemanager/en/content_13/260701_%20July%201%20Flag%20Ceremony_Eng.pdf"
-    },
-    "startDate": "2026-06-27T03:00:00.000Z",
-    "endDate": "2026-07-01T06:00:00.000Z",
-    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87363.html",
-    "enableLinkInIos": true,
-    "isShown": true
-  },
-  {
     "id": "2026-07-05_TSP",
     "content": {
       "zh": [
-        "2026-07-05 輕鐵車站「屯門泳池」將改名為「海皇路」"
+        "2026-07-05 輕鐵車站「屯門泳池」改名為「海皇路」"
       ],
       "en": [
-        "2026-07-05 LRT stop \"Tuen Mun Swimming Pool\" will be renamed \"Hoi Wong Road\""
+        "2026-07-05 LRT stop \"Tuen Mun Swimming Pool\" renamed \"Hoi Wong Road\""
       ]
     },
     "link": {
@@ -96,26 +56,6 @@
     "startDate": "2026-06-23T00:00:00.000Z",
     "endDate": "2026-07-13T00:00:00.000Z",
     "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87256.html",
-    "enableLinkInIos": true,
-    "isShown": true
-  },
-  {
-    "id": "2026-06-21_KSR",
-    "content": {
-      "zh": [
-        "港鐵錦上路站巴士及小巴站遷移至 D 出口外"
-      ],
-      "en": [
-        "Bus and Minibus Stop near Kam Sheung Road MTR Relocated to Outside Exit D"
-      ]
-    },
-    "link": {
-      "zh": "https://search.kmb.hk/kmbwebsite/AnnouncementPicture.ashx?url=1781235139_4143_0.pdf",
-      "en": "https://search.kmb.hk/kmbwebsite/AnnouncementPicture.ashx?url=1781235139_4143_0.pdf"
-    },
-    "startDate": "2026-06-21T00:00:00.000Z",
-    "endDate": "2026-07-06T00:00:00.000Z",
-    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87165.html",
     "enableLinkInIos": true,
     "isShown": true
   },
@@ -156,66 +96,6 @@
     "startDate": "2026-03-30T00:00:00.000Z",
     "endDate": "2027-01-01T00:00:00.000Z",
     "url": "https://www.1823.gov.hk/tc/faq/how-to-calculate-the-fares-under-the-2-flat-rate-cum-80-per-cent-discount",
-    "enableLinkInIos": true,
-    "isShown": true
-  },
-  {
-    "id": "2027-04-05_ChingMing",
-    "content": {
-      "zh": [
-        "2027 年清明節"
-      ],
-      "en": [
-        "Ching Ming Festival 2027"
-      ]
-    },
-    "link": {
-      "zh": "",
-      "en": ""
-    },
-    "startDate": "2027-04-05T00:00:00.000Z",
-    "endDate": "2027-04-05T00:00:00.001Z",
-    "url": "",
-    "enableLinkInIos": true,
-    "isShown": false
-  },
-    {
-    "id": "2027-06-09_TuenNgFestival",
-    "content": {
-      "zh": [
-        "2027 年端午節"
-      ],
-      "en": [
-        "Tuen Ng Festival 2027"
-      ]
-    },
-    "link": {
-      "zh": "",
-      "en": ""
-    },
-    "startDate": "2027-06-09T00:00:00.000Z",
-    "endDate": "2027-06-09T00:00:00.001Z",
-    "url": "",
-    "enableLinkInIos": true,
-    "isShown": true
-  },
-  {
-    "id": "2027-06-19_BarracksOpenDay",
-    "content": {
-      "zh": [
-        ""
-      ],
-      "en": [
-        ""
-      ]
-    },
-    "link": {
-      "zh": "",
-      "en": ""
-    },
-    "startDate": "2026-06-19T00:00:00.000Z",
-    "endDate": "2026-06-19T00:00:00.001Z",
-    "url": "",
     "enableLinkInIos": true,
     "isShown": true
   },
