@@ -1,21 +1,21 @@
 [
   {
-    "id": "2026-07-10_TKO",
+    "id": "2026-07-13_SummerHoliday",
     "content": {
       "zh": [
-        "2026-07-10 將軍澳（坑口）凌晨臨時交通及運輸安排"
+        "2026 年暑假巴士﹑輕鐵路綫安排"
       ],
       "en": [
-        "2026-07-10 Overnight Temporary Traffic and Transport Arrangements in Hang Hau, Tseung Kwan O"
+        "Arrangement of Bus & Light Rail Routes During Summer Holiday 2026"
       ]
     },
     "link": {
-      "zh": "https://www.td.gov.hk/filemanager/en/content_13/TDN_Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_10%20Jul%202026_CHI%20.pdf",
-      "en": "https://www.td.gov.hk/filemanager/en/content_13/TDN_Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_10%20Jul%202026_EN%20.pdf"
+      "zh": "https://notice.hkbus.app/SummerHoliday2026.html",
+      "en": "https://notice.hkbus.app/SummerHoliday2026.html"
     },
-    "startDate": "2026-07-03T00:00:00.000Z",
-    "endDate": "2026-07-10T00:00:00.000Z",
-    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87423.html",
+    "startDate": "2026-07-11T00:00:00.000Z",
+    "endDate": "2026-08-31T23:59:59.999Z",
+    "url": "https://notice.hkbus.app/SummerHoliday2026.html",
     "enableLinkInIos": true,
     "isShown": true
   },
@@ -26,7 +26,7 @@
         "2026-07-05 輕鐵車站「屯門泳池」改名為「海皇路」"
       ],
       "en": [
-        "2026-07-05 LRT stop \"Tuen Mun Swimming Pool\" renamed \"Hoi Wong Road\""
+        "2026-07-05 Light Rail stop \"Tuen Mun Swimming Pool\" renamed \"Hoi Wong Road\""
       ]
     },
     "link": {
