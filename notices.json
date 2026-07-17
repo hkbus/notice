@@ -1,5 +1,25 @@
 [
   {
+    "id": "2026-07-26_ABT-new-BBI",
+    "content": {
+      "zh": [
+        "2026-07-26 新香港仔隧道巴士轉乘站啟用的交通及運輸安排"
+      ],
+      "en": [
+        "2026-07-26 Arrangements for the new Aberdeen Tunnel Bus-Bus Interchange"
+      ]
+    },
+    "link": {
+      "zh": "https://www.td.gov.hk/filemanager/tc/content_13/260726%20-%20ABT%20TA_chi.pdf",
+      "en": "https://www.td.gov.hk/filemanager/en/content_13/260726%20-%20ABT%20TA_eng.pdf"
+    },
+    "startDate": "2026-07-17T21:00:00.000Z",
+    "endDate": "2026-08-09T23:59:59.999Z",
+    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_87717.html",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
     "id": "2026-07-13_SummerHoliday",
     "content": {
       "zh": [
