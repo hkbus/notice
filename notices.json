@@ -1,5 +1,25 @@
 [
   {
+    "id": "2026-08-18_DATA.GOV.HK",
+    "content": {
+      "zh": [
+        "2026-08-18 01:00~04:30 「資料一線通」暫停提供嶼巴的實時抵站時間及相關資料。"
+      ],
+      "en": [
+        "2026-08-18 01:00~04:30 DATA.GOV.HK suspends provision of New Lantau Bus real-time \"Next bus\" arrival time and related data."
+      ]
+    },
+    "link": {
+      "zh": "https://data.gov.hk/tc-data/dataset/nlb-bus-nlb-bus-service-v2",
+      "en": "https://data.gov.hk/en-data/dataset/nlb-bus-nlb-bus-service-v2"
+    },
+    "startDate": "2026-08-15T08:00:00.000Z",
+    "endDate": "2026-08-18T00:00:00.000Z",
+    "url": "https://data.gov.hk/tc-data/dataset/nlb-bus-nlb-bus-service-v2",
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
     "id": "2026-07-13_SummerHoliday",
     "content": {
       "zh": [
