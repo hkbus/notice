@@ -1,41 +1,21 @@
 [
   {
-    "id": "2026-08-18_DATA.GOV.HK",
+    "id": "2026-09-25_MidAutumnFestival",
     "content": {
       "zh": [
-        "2026-08-18 01:00~04:30 「資料一線通」暫停提供新大嶼山巴士的實時抵站時間及相關資料。"
+        "2026 年中秋節特別交通及運輸安排"
       ],
       "en": [
-        "2026-08-18 01:00~04:30 DATA.GOV.HK suspends provision of New Lantau Bus real-time \"Next bus\" arrival time and related data."
+        "Special Traffic and Transport Arrangements for Mid-Autumn Festival 2026"
       ]
     },
     "link": {
-      "zh": "https://data.gov.hk/tc-data/dataset/nlb-bus-nlb-bus-service-v2",
-      "en": "https://data.gov.hk/en-data/dataset/nlb-bus-nlb-bus-service-v2"
+      "zh": "https://www.td.gov.hk/filemanager/tc/content_13/TDN%20Mid-Autumn%202026%20Chinese_full%20ver_clean.pdf",
+      "en": "https://www.td.gov.hk/filemanager/en/content_13/TDN%20Mid-Autumn%202026%20English_full%20ver_clean.pdf"
     },
-    "startDate": "2026-08-15T07:30:00.000Z",
-    "endDate": "2026-08-18T00:00:00.000Z",
-    "url": "https://data.gov.hk/tc-data/dataset/nlb-bus-nlb-bus-service-v2",
-    "enableLinkInIos": true,
-    "isShown": true
-  },
-  {
-    "id": "2026-07-13_SummerHoliday",
-    "content": {
-      "zh": [
-        "2026 年暑假巴士﹑輕鐵路綫安排"
-      ],
-      "en": [
-        "Arrangement of Bus & Light Rail Routes During Summer Holiday 2026"
-      ]
-    },
-    "link": {
-      "zh": "https://notice.hkbus.app/SummerHoliday2026.html",
-      "en": "https://notice.hkbus.app/SummerHoliday2026.html"
-    },
-    "startDate": "2026-07-11T00:00:00.000Z",
-    "endDate": "2026-08-31T23:59:59.999Z",
-    "url": "https://notice.hkbus.app/SummerHoliday2026.html",
+    "startDate": "2026-09-23T18:35:00.000Z",
+    "endDate": "2026-09-27T16:00:00.000Z",
+    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_88858.html",
     "enableLinkInIos": true,
     "isShown": true
   },
