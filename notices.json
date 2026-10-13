@@ -1,26 +1,25 @@
 [
   {
-    "id": "2026-10-11_HongKongCyclothon",
+    "id": "safety-speak-up-do-not-delete-always-first",
+    "icon": "warning",
     "content": {
-      "zh": [
-        "2026-10-11 香港單車節的特別交通及運輸安排"
-      ],
-      "en": [
-        "2026-10-11 Special Traffic and Transport Arrangements for the 2026 Hong Kong Cyclothon"
-      ]
+      "zh": ["遇到或見到非禮、偷拍，即管發聲求助", "通知車長／車站職員，或致電 999"],
+      "en": ["Groping or upskirting? Speak up.", "Tell staff or call 999."]
     },
     "link": {
-      "zh": "https://www.td.gov.hk/filemanager/en/content_13/WCO/2026_v1_cyclothon_tc.pdf",
-      "en": "https://www.td.gov.hk/filemanager/en/content_13/WCO/2026_v1_cyclothon_eng.pdf"
+      "zh": "https://clic.org.hk/zh/topics/sexual_offences/I_Non-consensual_Sexual_Offences",
+      "en": "https://clic.org.hk/en/topics/sexual_offences/I_Non-consensual_Sexual_Offences"
     },
-    "startDate": "2026-10-07T00:00:00.000Z",
-    "endDate": "2026-10-11T10:00:00.000Z",
-    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_89116.html",
+    "startDate": "2026-10-14T00:00:00.000Z",
+    "endDate": "2099-12-31T15:59:59.000Z",
+    "url": "https://clic.org.hk/zh/topics/sexual_offences/I_Non-consensual_Sexual_Offences",
+    "probability": 0.25,
     "enableLinkInIos": true,
     "isShown": true
   },
   {
     "id": "2026-10-05_KaiTakHospital",
+    "icon": "info",
     "content": {
       "zh": [
         "啟德醫院交通及公共運輸安排"
@@ -41,6 +40,7 @@
   },
   {
     "id": "2026-01-01_BusRouteChanges",
+    "icon": "info",
     "content": {
       "zh": [
         "香港巴士大典: 2026 年巴士路線改動列表"
@@ -61,6 +61,7 @@
   },
   {
     "id": "2026-04-03_2-Scheme",
+    "icon": "info",
     "content": {
       "zh": [
         "1823：「兩蚊兩折」收費是如何計算？"
@@ -81,6 +82,7 @@
   },
   {
     "id": "9999-01-01_Example",
+    "icon": "info",
     "content": {
       "zh": [
         "中文通告"
