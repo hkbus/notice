@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-11-01_NorthernMetropolisMarathon",
+    "icon": "info",
+    "content": {
+      "zh": ["2026-11-01 北部都會區馬拉松 2026 的特別交通及運輸安排"],
+      "en": ["2026-11-01 Special Traffic And Transport Arrangements For Northern Metropolis Marathon 2026"]
+    },
+    "link": {
+      "zh": "https://www.td.gov.hk/filemanager/tc/content_13/TDN_NNM%202026_20261026%20final%20Chi.pdf",
+      "en": "https://www.td.gov.hk/filemanager/en/content_13/TDN_NNM%202026_20261026%20final%20Eng.pdf"
+    },
+    "startDate": "2026-10-28T00:00:00.000Z",
+    "endDate": "2026-11-01T05:59:59.000Z",
+    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_89458.html",
+    "probability": 1,
+    "enableLinkInIos": true,
+    "isShown": true
+  },
+  {
     "id": "safety-speak-up-do-not-delete-always-first",
     "icon": "warning",
     "content": {
