@@ -1,18 +1,18 @@
 [
   {
-    "id": "2026-11-01_NorthernMetropolisMarathon",
+    "id": "2026-11-28_TCL",
     "icon": "info",
     "content": {
-      "zh": ["2026-11-01 北部都會區馬拉松 2026 的特別交通及運輸安排"],
-      "en": ["2026-11-01 Special Traffic And Transport Arrangements For Northern Metropolis Marathon 2026"]
+      "zh": ["2026-11-28 東涌綫來往東涌及欣澳列車服務提早完結"],
+      "en": ["2026-11-28 Train service between Tung Chung and Sunny Bay ends earlier"]
     },
     "link": {
-      "zh": "https://www.td.gov.hk/filemanager/tc/content_13/TDN_NNM%202026_20261026%20final%20Chi.pdf",
-      "en": "https://www.td.gov.hk/filemanager/en/content_13/TDN_NNM%202026_20261026%20final%20Eng.pdf"
+      "zh": "https://tnews.mtr.com.hk/alert/tsi_simpletxt_title_tc.html?type=general",
+      "en": "https://tnews.mtr.com.hk/alert/tsi_simpletxt_title.html?type=general"
     },
-    "startDate": "2026-10-28T00:00:00.000Z",
-    "endDate": "2026-11-01T05:59:59.000Z",
-    "url": "https://www.td.gov.hk/tc/traffic_notices/index_id_89458.html",
+    "startDate": "2026-11-23T00:00:00.000Z",
+    "endDate": "2026-11-28T18:59:59.000Z",
+    "url": "https://www.mtr.com.hk/archive/corporate/ch/press_release/PR-26-069-C.pdf",
     "probability": 1,
     "enableLinkInIos": true,
     "isShown": true
